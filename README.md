@@ -8,6 +8,7 @@ Note that some changes (such as database schema modifications) are not backwards
 compatible and may cause the app to crash. In this
 case, please uninstall and re-install the app.
 
+
 Introduction
 ------------
 
